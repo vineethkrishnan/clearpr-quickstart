@@ -8,3 +8,4 @@ export function priceAfterDiscount(price: number, tier: Tier): number {
     case 'gold': return price * 0.75;
   }
 }
+
