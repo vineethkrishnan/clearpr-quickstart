@@ -1,0 +1,12 @@
+{
+  "name": "clearpr-quickstart",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Demo repo for the ClearPR setup walkthrough",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
